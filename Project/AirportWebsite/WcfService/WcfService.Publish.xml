@@ -1,0 +1,11 @@
+<publishData>
+  <publishTarget publishUrl="http://localhost:8080/">
+    <file relUrl="bin/DBLib.pdb" publishTime="12/21/2018 10:04:09" />
+    <file relUrl="bin/DBLib.dll" publishTime="12/21/2018 10:04:09" />
+    <file relUrl="Web.config" publishTime="12/21/2018 13:52:20" />
+    <file relUrl="bin/WcfService.pdb" publishTime="12/21/2018 13:29:53" />
+    <file relUrl="bin/WcfService.dll.config" publishTime="12/21/2018 13:52:20" />
+    <file relUrl="bin/WcfService.dll" publishTime="12/21/2018 13:29:53" />
+    <file relUrl="WcfDemo.AirportManager.svc" publishTime="12/21/2018 13:52:34" />
+  </publishTarget>
+</publishData>

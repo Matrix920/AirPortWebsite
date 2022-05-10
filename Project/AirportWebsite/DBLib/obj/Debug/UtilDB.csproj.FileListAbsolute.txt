@@ -1,0 +1,8 @@
+F:\MWS\S18\adp\AirportWebsite\DBLib\bin\Debug\DBLib.dll.config
+F:\MWS\S18\adp\AirportWebsite\DBLib\bin\Debug\DBLib.dll
+F:\MWS\S18\adp\AirportWebsite\DBLib\bin\Debug\DBLib.pdb
+F:\MWS\S18\adp\AirportWebsite\DBLib\bin\Debug\RemotingLib.dll
+F:\MWS\S18\adp\AirportWebsite\DBLib\bin\Debug\RemotingLib.pdb
+F:\MWS\S18\adp\AirportWebsite\DBLib\obj\Debug\DBLib.dll
+F:\MWS\S18\adp\AirportWebsite\DBLib\obj\Debug\DBLib.pdb
+F:\MWS\S18\adp\AirportWebsite\DBLib\obj\Debug\UtilDB.csprojResolveAssemblyReference.cache

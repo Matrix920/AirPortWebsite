@@ -1,0 +1,8 @@
+F:\MWS\S18\adp\AirportWebsite\WcfService\bin\Debug\WcfService.dll.config
+F:\MWS\S18\adp\AirportWebsite\WcfService\bin\Debug\WcfService.dll
+F:\MWS\S18\adp\AirportWebsite\WcfService\bin\Debug\WcfService.pdb
+F:\MWS\S18\adp\AirportWebsite\WcfService\bin\Debug\DBLib.dll
+F:\MWS\S18\adp\AirportWebsite\WcfService\bin\Debug\DBLib.pdb
+F:\MWS\S18\adp\AirportWebsite\WcfService\obj\Debug\WcfService.csprojResolveAssemblyReference.cache
+F:\MWS\S18\adp\AirportWebsite\WcfService\obj\Debug\WcfService.dll
+F:\MWS\S18\adp\AirportWebsite\WcfService\obj\Debug\WcfService.pdb

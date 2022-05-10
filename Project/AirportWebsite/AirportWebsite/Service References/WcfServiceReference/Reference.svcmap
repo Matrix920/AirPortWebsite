@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="72439499-462c-4585-a6fd-b641596318de" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <GenerateTaskBasedAsynchronousMethod>true</GenerateTaskBasedAsynchronousMethod>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://localhost:8080/WcfDemo.AirportManager.svc" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="WcfDemo.disco" MetadataType="Disco" ID="f3056709-33da-49e4-9f8d-376eff64b062" SourceId="1" SourceUrl="http://localhost:8080/WcfDemo.AirportManager.svc?disco" />
+    <MetadataFile FileName="AirportManager.wsdl" MetadataType="Wsdl" ID="4be29bd6-7b64-41ed-93b5-b67656456996" SourceId="1" SourceUrl="http://localhost:8080/WcfDemo.AirportManager.svc?wsdl" />
+    <MetadataFile FileName="WcfDemo.xsd" MetadataType="Schema" ID="294229b1-280a-42aa-b59a-0b26f34dd4db" SourceId="1" SourceUrl="http://localhost:8080/WcfDemo.AirportManager.svc?xsd=xsd2" />
+    <MetadataFile FileName="WcfDemo1.xsd" MetadataType="Schema" ID="9f5b5a5b-35bf-4def-87b6-1a920975933f" SourceId="1" SourceUrl="http://localhost:8080/WcfDemo.AirportManager.svc?xsd=xsd0" />
+    <MetadataFile FileName="WcfDemo2.xsd" MetadataType="Schema" ID="18b0fe41-1f0d-44f4-90e3-90f537bc231a" SourceId="1" SourceUrl="http://localhost:8080/WcfDemo.AirportManager.svc?xsd=xsd1" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>

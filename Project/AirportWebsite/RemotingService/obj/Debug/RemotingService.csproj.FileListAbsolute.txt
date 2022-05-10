@@ -1,0 +1,10 @@
+F:\MWS\S18\adp\AirportWebsite\RemotingService\bin\Debug\RemotingService.exe.config
+F:\MWS\S18\adp\AirportWebsite\RemotingService\bin\Debug\RemotingService.exe
+F:\MWS\S18\adp\AirportWebsite\RemotingService\bin\Debug\RemotingService.pdb
+F:\MWS\S18\adp\AirportWebsite\RemotingService\bin\Debug\DBLib.dll
+F:\MWS\S18\adp\AirportWebsite\RemotingService\bin\Debug\RemotingLib.dll
+F:\MWS\S18\adp\AirportWebsite\RemotingService\bin\Debug\DBLib.pdb
+F:\MWS\S18\adp\AirportWebsite\RemotingService\bin\Debug\RemotingLib.pdb
+F:\MWS\S18\adp\AirportWebsite\RemotingService\obj\Debug\RemotingService.exe
+F:\MWS\S18\adp\AirportWebsite\RemotingService\obj\Debug\RemotingService.pdb
+F:\MWS\S18\adp\AirportWebsite\RemotingService\obj\Debug\RemotingService.csprojResolveAssemblyReference.cache

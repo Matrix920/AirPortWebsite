@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 11, 8.5" name="AirportLinq">
+  <DataContextMoniker Name="/AirportLinqDataContext" />
+  <nestedChildShapes>
+    <classShape Id="c7cc8710-4873-4984-aa88-d513eebfd829" absoluteBounds="0.75, 1.375, 2, 1.5785953776041666">
+      <DataClassMoniker Name="/AirportLinqDataContext/City" />
+      <nestedChildShapes>
+        <elementListCompartment Id="9322e1ba-cb7b-4714-a05f-b2393f2e563c" absoluteBounds="0.765, 1.835, 1.9700000000000002, 1.0185953776041665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="48aac3a6-f0f1-4e62-aa4b-7e58d212ed2e" absoluteBounds="3.5, 1, 2, 2.5401025390625005">
+      <DataClassMoniker Name="/AirportLinqDataContext/Plane" />
+      <nestedChildShapes>
+        <elementListCompartment Id="d4066bd2-4db5-42ae-8af5-8710cc4bc2f8" absoluteBounds="3.515, 1.46, 1.9700000000000002, 1.9801025390625" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="1c63fb2c-48ec-4e1d-8368-40e54b218a5c" absoluteBounds="0.75, 5.375, 2, 1.5785953776041666">
+      <DataClassMoniker Name="/AirportLinqDataContext/Company" />
+      <nestedChildShapes>
+        <elementListCompartment Id="241f2e0d-ff80-4e52-981a-c1efa300fec1" absoluteBounds="0.765, 5.835, 1.9700000000000002, 1.0185953776041665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <associationConnector edgePoints="[(2.75 : 2.16429768880208); (3.5 : 2.16429768880208)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/AirportLinqDataContext/City/City_Plane" />
+      <nodes>
+        <classShapeMoniker Id="c7cc8710-4873-4984-aa88-d513eebfd829" />
+        <classShapeMoniker Id="48aac3a6-f0f1-4e62-aa4b-7e58d212ed2e" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(2.75 : 6.16429768880208); (4.5 : 6.16429768880208); (4.5 : 3.5401025390625)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/AirportLinqDataContext/Company/Company_Plane" />
+      <nodes>
+        <classShapeMoniker Id="1c63fb2c-48ec-4e1d-8368-40e54b218a5c" />
+        <classShapeMoniker Id="48aac3a6-f0f1-4e62-aa4b-7e58d212ed2e" />
+      </nodes>
+    </associationConnector>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>
